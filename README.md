@@ -11,3 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
    mail- petersharan900@gmail.com
 -->
+- 🔭 I’m currently working on watch party extension.
+- 🌱 I’m currently learning web3 development.
+- 👯 I’m looking to collaborate on any web development projects.
+- 📫 How to reach me: 
+   mail- petersharan900@gmail.com
+   discord- fredeter#7545
